@@ -96,11 +96,10 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any questions or feedback, please reach out to [ayushranjan94300@gmail.com](mailto:ayushranjan94300@gmail.com).
 
 ## Future Work
 - Implement CLI arguments to accept file paths dynamically.
 - Enhance logging to include error handling and debugging information.
 - Add unit tests for individual functions to ensure reliability.
 - Extend the pipeline to support additional data sources and metrics.
-```
